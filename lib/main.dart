@@ -56,7 +56,8 @@ class _MyHomePageState extends State<MyHomePage> {
             SpinKitDancingSquare(
               color: Colors.pink,
             ),
-            SpinKitDualRing(color: Colors.cyan)
+            SpinKitDualRing(color: Colors.cyan),
+            SpinKitThreeInOut(color: Colors.cyan),
           ],
         ),
       ),
